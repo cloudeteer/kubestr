@@ -8,7 +8,7 @@ const (
 	// VolSnapClassStableDriverKey describes the stable driver key
 	VolSnapClassStableDriverKey = "driver"
 	// DefaultPodImage the default pod image
-	DefaultPodImage = "ghcr.io/kastenhq/kubestr:latest"
+	DefaultPodImage = "ghcr.io/cloudeteer/kubestr:latest"
 	// SnapGroupName describes the snapshot group name
 	SnapGroupName = "snapshot.storage.k8s.io"
 	// VolumeSnapshotClassResourcePlural  describes volume snapshot classses
